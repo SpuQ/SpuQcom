@@ -1,0 +1,11 @@
+SpuQcom
+
+Author: 	Tom "SpuQyballz" Santens
+Version: 	0.0 Proof of Concept	20.12.2013
+Description:
+A communication interface to exchange/manipulate variables of a small
+microprocessor device from another device.
+
+Used hardware: 	Digital AD expansion board REV2.1 ("Tarantula")
+		Embedded development board based on Atmel's ATmega128
+		info@digital-ad.be or tom@digital-ad.be
